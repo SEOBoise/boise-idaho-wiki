@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="900" height="480" preserveAspectRatio="xMinYMin meet" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="900" height="480"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-480)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="900" height="480" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="35" y="438" style="font-family: Times-Roman; font-size: 28px;fill: rgb(9%,24%,25%); stroke:none;" transform="translate(0,876) scale(1,-1)">Boise city population</text>
+			<text x="35" y="411" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,39%,38%); stroke:none;" transform="translate(0,822) scale(1,-1)">Census counts and the latest annual estimate</text>
+			<text x="35" y="23" style="font-family: Helvetica; font-size: 11px;fill: rgb(32%,39%,38%); stroke:none;" transform="translate(0,46) scale(1,-1)">Source: U.S. Census Bureau QuickFacts. City geography; population estimate is July 1, 2025.</text>
+			<g transform="">
+				<path d="M 106,85 L 838,85 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 106,179.333333 L 838,179.333333 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 106,273.666667 L 838,273.666667 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 106,368 L 838,368 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<g transform="">
+					<rect x="200.8888888888889" y="85.0" width="54.22222222222223" height="194.01630999999998" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,24%,25%); fill-rule: evenodd;"/>
+					<rect x="444.8888888888889" y="85.0" width="54.22222222222223" height="222.32857333333334" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,24%,25%); fill-rule: evenodd;"/>
+					<rect x="688.8888888888889" y="85.0" width="54.22222222222217" height="224.91802333333334" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,45%,41%); fill-rule: evenodd;"/>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,228,289.01631)">
+							<text x="-26.0" y="3.1999999999999993" style="font-family: Times-Roman; font-size: 16px;fill: rgb(9%,24%,25%); stroke:none;" transform="translate(0,6) scale(1,-1)">205,671</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,472,317.328573)">
+							<text x="-26.0" y="3.1999999999999993" style="font-family: Times-Roman; font-size: 16px;fill: rgb(9%,24%,25%); stroke:none;" transform="translate(0,6) scale(1,-1)">235,684</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,716,319.918023)">
+							<text x="-26.0" y="3.1999999999999993" style="font-family: Times-Roman; font-size: 16px;fill: rgb(9%,24%,25%); stroke:none;" transform="translate(0,6) scale(1,-1)">238,429</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 106,85 L 838,85 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 106,85 L 106,80 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 350,85 L 350,80 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 594,85 L 594,80 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 838,85 L 838,80 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,228,75)">
+							<text x="-39.69" y="-14.000000000000002" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-28) scale(1,-1)">2010 census</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,472,75)">
+							<text x="-39.69" y="-14.000000000000002" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-28) scale(1,-1)">2020 census</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,716,75)">
+							<text x="-43.967" y="-14.000000000000002" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-28) scale(1,-1)">2025 estimate</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform=""/>
+					<g transform=""/>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,101,85)">
+							<text x="-12.0" y="-4.800000000000001" style="font-family: Times-Roman; font-size: 12px;fill: rgb(32%,39%,38%); stroke:none;" transform="translate(0,-9) scale(1,-1)">0k</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,101,179.333333)">
+							<text x="-24.0" y="-4.800000000000001" style="font-family: Times-Roman; font-size: 12px;fill: rgb(32%,39%,38%); stroke:none;" transform="translate(0,-9) scale(1,-1)">100k</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,101,273.666667)">
+							<text x="-24.0" y="-4.800000000000001" style="font-family: Times-Roman; font-size: 12px;fill: rgb(32%,39%,38%); stroke:none;" transform="translate(0,-9) scale(1,-1)">200k</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,101,368)">
+							<text x="-24.0" y="-4.800000000000001" style="font-family: Times-Roman; font-size: 12px;fill: rgb(32%,39%,38%); stroke:none;" transform="translate(0,-9) scale(1,-1)">300k</text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

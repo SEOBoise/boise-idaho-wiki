@@ -1,0 +1,1 @@
+Three original data charts. SVG is used in the static page; matching PNG files are supplied for CMS import. The CSV records values, dates, units and geography. Preserve captions and distinguish census counts from estimates, city from metro, and traffic from unique visitors. Axes begin at zero.

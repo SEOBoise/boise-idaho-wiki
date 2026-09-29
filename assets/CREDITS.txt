@@ -1,0 +1,15 @@
+# Photograph attribution
+
+Title: Boise Skyline 2013.jpg
+Creator: Lordchadwick79
+Photographed: October 26, 2013
+Source: https://commons.wikimedia.org/wiki/File:Boise_Skyline_2013.jpg
+Original: https://upload.wikimedia.org/wikipedia/commons/9/99/Boise_Skyline_2013.jpg
+License: Creative Commons Attribution-ShareAlike 3.0 Unported
+License URL: https://creativecommons.org/licenses/by-sa/3.0/
+Changes: resized and encoded as WebP; full composition retained, no color edits or crop.
+The resized photograph is distributed under the same CC BY-SA 3.0 license.
+Preserve the visible creator/license credit when reposting. This photo dates to 2013, not 2026.
+
+Charts and small tree/river icon: original graphics created for this package.
+The photo license applies to the photograph, not automatically to independent article text.

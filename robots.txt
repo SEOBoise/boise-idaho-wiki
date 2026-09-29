@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://boiseidaho.wiki/sitemap.xml

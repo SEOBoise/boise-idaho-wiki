@@ -1,0 +1,10 @@
+measure,period,value,unit,scope,source_key
+city_population,2010,205671,persons,Census count,census
+city_population,2020,235684,persons,Census count,census
+city_population,2025,238429,persons,"July 1 estimate, V2025",census
+airport_passengers,2024,4990885,passenger traffic,Annual total,airport
+airport_passengers,2025,5229399,passenger traffic,Annual total,airport
+"Trade, transportation and utilities",2026-08,79800,payroll jobs,Metro; preliminary; NSA,bls
+Education and health services,2026-08,67800,payroll jobs,Metro; preliminary; NSA,bls
+Professional and business services,2026-08,62800,payroll jobs,Metro; preliminary; NSA,bls
+Government,2026-08,51400,payroll jobs,Metro; preliminary; NSA,bls

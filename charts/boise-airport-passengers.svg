@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="900" height="480" preserveAspectRatio="xMinYMin meet" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="900" height="480"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-480)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="900" height="480" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="35" y="438" style="font-family: Times-Roman; font-size: 28px;fill: rgb(9%,24%,25%); stroke:none;" transform="translate(0,876) scale(1,-1)">Boise Airport passenger traffic</text>
+			<text x="35" y="411" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,39%,38%); stroke:none;" transform="translate(0,822) scale(1,-1)">Annual passenger counts · 2024 to 2025</text>
+			<text x="35" y="23" style="font-family: Helvetica; font-size: 11px;fill: rgb(32%,39%,38%); stroke:none;" transform="translate(0,46) scale(1,-1)">Source: Boise Airport, January 23, 2026. Passenger traffic does not measure unique visitors.</text>
+			<g transform="">
+				<path d="M 106,85 L 838,85 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 106,179.333333 L 838,179.333333 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 106,273.666667 L 838,273.666667 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 106,368 L 838,368 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<g transform="">
+					<rect x="248.33333333333331" y="85.0" width="81.33333333333331" height="235.40340916666662" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,24%,25%); fill-rule: evenodd;"/>
+					<rect x="614.3333333333333" y="85.0" width="81.33333333333337" height="246.65331949999995" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,45%,41%); fill-rule: evenodd;"/>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,289,330.403409)">
+							<text x="-32.0" y="3.1999999999999993" style="font-family: Times-Roman; font-size: 16px;fill: rgb(9%,24%,25%); stroke:none;" transform="translate(0,6) scale(1,-1)">4,990,885</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,655,341.653319)">
+							<text x="-32.0" y="3.1999999999999993" style="font-family: Times-Roman; font-size: 16px;fill: rgb(9%,24%,25%); stroke:none;" transform="translate(0,6) scale(1,-1)">5,229,399</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 106,85 L 838,85 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 106,85 L 106,80 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 472,85 L 472,80 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 838,85 L 838,80 Z" style="stroke: rgb(84%,89%,87%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,289,75)">
+							<text x="-15.568000000000001" y="-14.000000000000002" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-28) scale(1,-1)">2024</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,655,75)">
+							<text x="-15.568000000000001" y="-14.000000000000002" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-28) scale(1,-1)">2025</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform=""/>
+					<g transform=""/>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,101,85)">
+							<text x="-15.336" y="-4.800000000000001" style="font-family: Times-Roman; font-size: 12px;fill: rgb(32%,39%,38%); stroke:none;" transform="translate(0,-9) scale(1,-1)">0m</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,101,179.333333)">
+							<text x="-15.336" y="-4.800000000000001" style="font-family: Times-Roman; font-size: 12px;fill: rgb(32%,39%,38%); stroke:none;" transform="translate(0,-9) scale(1,-1)">2m</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,101,273.666667)">
+							<text x="-15.336" y="-4.800000000000001" style="font-family: Times-Roman; font-size: 12px;fill: rgb(32%,39%,38%); stroke:none;" transform="translate(0,-9) scale(1,-1)">4m</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,101,368)">
+							<text x="-15.336" y="-4.800000000000001" style="font-family: Times-Roman; font-size: 12px;fill: rgb(32%,39%,38%); stroke:none;" transform="translate(0,-9) scale(1,-1)">6m</text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
